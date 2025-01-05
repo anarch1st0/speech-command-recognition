@@ -160,7 +160,6 @@ plt.title('Loss Over Epochs')
 plt.show()
 ```
 
-
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/81907b17-abe8-4814-92a6-440ae8eeee17" />
 
 
